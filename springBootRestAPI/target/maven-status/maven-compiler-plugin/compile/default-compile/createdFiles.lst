@@ -1,0 +1,4 @@
+com\veera\controller\PersonController.class
+com\veera\model\Person.class
+com\veera\configuration\ApplicationConfiguration.class
+com\veera\service\PersonService.class
